@@ -1,0 +1,2 @@
+Here I combine Natural Earth river centerlines with 2024 VIIRS nighttime light data to trace the Nile River system, highlighting the White Nile, Blue Nile, 
+the main channel, and the delta branches while keeping the focus on the Nile corridor. The glowing pattern of lights shows how deeply human life is shaped by the river’s path.![Nile only_try_again_final](https://github.com/user-attachments/assets/95325dd8-49c9-4d36-9723-5e12246e0d38)
